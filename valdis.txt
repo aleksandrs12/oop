@@ -1,0 +1,7 @@
+klienta vards: ulis
+veltijums: ej nahuy
+platums, garums, augstums (mm): [150, 200, 25]
+materiala cena EUR : 3
+datums: 2022-04-23
+laiks: 13:20:48
+rekina summa: 30.67
